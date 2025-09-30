@@ -1,6 +1,5 @@
 module github.com/dinisetiawati/api-contract-category
 
-
 go 1.23.0
 
 require (
