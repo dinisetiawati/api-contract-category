@@ -1,4 +1,4 @@
-module go-project5
+module github.com/dinisetiawati/api-contract-category
 
 go 1.23.0
 
